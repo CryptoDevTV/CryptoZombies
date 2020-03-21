@@ -1,2 +1,28 @@
 # CryptoZombies
-Nauka pisania smart contractów poprzez tworzenie własnej fabryki zombie
+Kurs pisania smart contractów na platformie Ethereum.
+
+Repozytorium to zawiera kody źródłowe wraz z linkami do filmów w których tłumaczę kolejno poszczególne elementy języka Solidity.
+
+Pełna playlista na portalu YouTube - [Blockchain i Smart Contract dla dzieci](https://www.youtube.com/playlist?list=PLUQAuzbjHTTN_--4BiHsYNf7BldBpZu4T)
+
+## Fabryka Zombie - Blockchain dla początkujących
+
+Materiał przeznaczony dla początkujących.
+
+1. Wprowadzenie
+	1. [Film](https://youtu.be/YL3i5PMUFZ8)
+	2. Kod źródłowy
+2. Cyfrowe umowy
+	1. [Film](https://youtu.be/V5AW1Fg_AIE)
+	2. Kod źródłowy
+3. Zmienne
+	1. [Film](https://youtu.be/HN9qwU5pZTA)
+	2. Kod źródłowy
+4. Prosta matematyka
+	1. [Film](https://youtu.be/BFqwYQdB3l0)
+	2. Kod źródłowy
+5. Struktury
+	1. [Film](https://youtu.be/w3b-TXpeF28)
+	2. Kod źródłowy
+
+
