@@ -24,5 +24,8 @@ Materiał przeznaczony dla początkujących.
 5. Struktury
 	1. [Film](https://youtu.be/w3b-TXpeF28)
 	2. [Kod źródłowy](https://github.com/CryptoDevTV/CryptoZombies/blob/master/ZombieFactory/5.sol)
+5. Tablice
+	1. [Film](https://youtu.be/xmrHl_r_xYY)
+	2. [Kod źródłowy](https://github.com/CryptoDevTV/CryptoZombies/blob/master/ZombieFactory/6.sol)
 
 
