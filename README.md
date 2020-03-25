@@ -30,5 +30,8 @@ Materiał przeznaczony dla początkujących.
 7. Funkcje
 	1. [Film](https://youtu.be/Vs44jKouC0g)
 	2. [Kod źródłowy](https://github.com/CryptoDevTV/CryptoZombies/blob/master/ZombieFactory/7.sol)
+8. Tablice i struktury
+	1. [Film](https://youtu.be/ikaAd9q5Ifs)
+	2. [Kod źródłowy](https://github.com/CryptoDevTV/CryptoZombies/blob/master/ZombieFactory/8.sol)
 
 
