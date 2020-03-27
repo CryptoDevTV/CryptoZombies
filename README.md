@@ -33,5 +33,11 @@ Materiał przeznaczony dla początkujących.
 8. Tablice i struktury
 	1. [Film](https://youtu.be/ikaAd9q5Ifs)
 	2. [Kod źródłowy](https://github.com/CryptoDevTV/CryptoZombies/blob/master/ZombieFactory/8.sol)
+9. Prywatne i publiczne
+	1. [Film](https://youtu.be/DJHLzZuIBuo)
+	2. [Kod źródłowy](https://github.com/CryptoDevTV/CryptoZombies/blob/master/ZombieFactory/9.sol)
+10. Funkcje raz jeszcze
+	1. [Film](https://youtu.be/Aj1Egn1cENM)
+	2. [Kod źródłowy](https://github.com/CryptoDevTV/CryptoZombies/blob/master/ZombieFactory/10.sol)
 
 
