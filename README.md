@@ -39,5 +39,8 @@ Materiał przeznaczony dla początkujących.
 10. Funkcje raz jeszcze
 	1. [Film](https://youtu.be/Aj1Egn1cENM)
 	2. [Kod źródłowy](https://github.com/CryptoDevTV/CryptoZombies/blob/master/ZombieFactory/10.sol)
+11. Pierwsze efekty
+	1. [Film](https://youtu.be/oN9QOFc3D1g)
+	2. [Kod źródłowy](https://github.com/CryptoDevTV/CryptoZombies/blob/master/ZombieFactory/11.sol)
 
 
