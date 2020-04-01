@@ -39,8 +39,14 @@ Materiał przeznaczony dla początkujących.
 10. Funkcje raz jeszcze
 	1. [Film](https://youtu.be/Aj1Egn1cENM)
 	2. [Kod źródłowy](https://github.com/CryptoDevTV/CryptoZombies/blob/master/ZombieFactory/10.sol)
-11. Pierwsze efekty
-	1. [Film](https://youtu.be/oN9QOFc3D1g)
+11. Losowość
+	1. [Film](https://youtu.be/APaOV0LXn2A)
 	2. [Kod źródłowy](https://github.com/CryptoDevTV/CryptoZombies/blob/master/ZombieFactory/11.sol)
+12. Pierwsze efekty
+	1. [Film](https://youtu.be/oN9QOFc3D1g)
+	2. [Kod źródłowy](https://github.com/CryptoDevTV/CryptoZombies/blob/master/ZombieFactory/12.sol)
+13. Zdarzenia
+	1. [Film](https://youtu.be/Nf9C5iTDOZY)
+	2. [Kod źródłowy](https://github.com/CryptoDevTV/CryptoZombies/blob/master/ZombieFactory/13.sol)
 
 
